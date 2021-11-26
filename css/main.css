@@ -79,3 +79,7 @@ nav a{
     /* border-color: #FFF; */
     
 }
+
+.push {
+    display: none;
+}
